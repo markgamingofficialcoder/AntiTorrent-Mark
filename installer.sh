@@ -120,7 +120,7 @@ iptables -D FORWARD -m string --algo bm --string "info_hash" -j DROP
 iptables -D FORWARD -m string --algo bm --string "tracker" -j DROP 
 iptables-save
 
-# Hello World Nandito lang ako SEVE
+# Mark Gaming Official
 clear
 
 
