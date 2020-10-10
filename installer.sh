@@ -132,6 +132,6 @@ echo "=================================="
 echo "The Anti-Torrent Has Been Installed"
 echo "Note: This is not 100% Block All Kind Of Torrents"
 echo "Can Block All Torrent Ports & P2P Request to the Server"
-echo "=======AUTO SCRIPT BY SEVE========"
+echo "=======AUTO SCRIPT BY MARK========"
 read -n 1 -s -r -p "Press ${green}Any Key${norm} to Back"
 clear
